@@ -1,5 +1,7 @@
 #/usr/bin/python3
 
+# Concatenate the sequences of multiple-sequence alignments with the same taxa present in a single directory.
+
 import os
 from Bio import AlignIO
 
